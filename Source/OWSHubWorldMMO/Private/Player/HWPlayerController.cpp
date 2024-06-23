@@ -3,6 +3,7 @@
 
 #include "./Player/HWPlayerController.h"
 #include "Runtime/JsonUtilities/Public/JsonObjectConverter.h"
+#include "Runtime/Engine/Classes/Engine/OverlapResult.h"
 #include "Policies/CondensedJsonPrintPolicy.h"
 #include "Serialization/JsonTypes.h"
 #include "Serialization/JsonReader.h"
